@@ -1,17 +1,9 @@
 
-
-E-mail classificado como #PUBLICO
-
-
- 
-
 # 🧭 IA Mentor de Carreira: Descubra Seu Futuro em Tech 
 
 ### Projeto de Entrega — Mentoria + Plano de Ação (GitHub-first)
 
- 
 
-![Status](https://img.shields.io/badge/status-em%20andamento-yellow)
 
 ![Roadmap](https://img.shields.io/badge/roadmap-120%20dias-blue)
 
