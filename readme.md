@@ -636,7 +636,7 @@ A trilha combina **plataformas educacionais e YouTube**, com foco em iniciantes:
 
 📋 Trilha de Cursos
 
- 
+ [Trilha_BA_IA_120d_GitHub_PowerBI_v3.xlsx](https://github.com/user-attachments/files/25587755/Trilha_BA_IA_120d_GitHub_PowerBI_v3.xlsx)
 
  
 
