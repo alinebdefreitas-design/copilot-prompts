@@ -358,8 +358,6 @@ AGENTE 2
 
 ![Foco](https://img.shields.io/badge/foco-crescimento%20profissional-green)
 
-![Horas](https://img.shields.io2/badge/estudo-5h%2Fsemana-orange)
-
 ![GitHub](https://img.shields.io/badge/portf%C3%B3lio-GitHub-black)
 
  
