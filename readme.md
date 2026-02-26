@@ -351,6 +351,412 @@ BA com IA aplicada costuma liderar iniciativas como:
  
 
 ---
+AGENTE 2
+
+
+# 🧠 IA Mentor de Carreira: Descubra Seu Futuro em Tech
+
+ 
+
+![Carreira](https://img.shields.io/badge/carreira-Business%20Analyst%20%2B%20IA-blue)
+
+![Foco](https://img.shields.io/badge/foco-crescimento%20profissional-green)
+
+![Horas](https://img.shields.io2/badge/estudo-5h%2Fsemana-orange)
+
+![GitHub](https://img.shields.io/badge/portf%C3%B3lio-GitHub-black)
+
+ 
+
+ 
+
+## 📑 Sumário
+
+ 
+
+- [📌 Sobre o Projeto](#-sobre-o-projeto)
+
+- [👩‍💼 Perfil Profissional](#-perfil-profissional)
+
+- [🎯 Objetivo do Projeto](#-objetivo-do-projeto)
+
+- [🧩 Visão do Dia a Dia da Carreira](#-visão-do-dia-a-dia-da-carreira)
+
+- [🧠 Mapa de Skills](#-mapa-de-skills)
+
+- [📅 Roadmap de 120 Dias](#-roadmap-de-120-dias)
+
+- [🚀 Projeto de Portfólio](#-projeto-de-portfólio)
+
+- [💬 Preparação para Entrevistas](#-preparação-para-entrevistas)
+
+- [🎓 Trilha de Estudos Recomendada](#-trilha-de-estudos-recomendada)
+
+ 
+
+---
+
+ 
+
+## 📌 Sobre o Projeto
+
+ 
+
+Este repositório documenta uma **jornada estruturada de planejamento de carreira em tecnologia**, com foco na função de **Analista de Negócios (Business Analyst) com Inteligência Artificial aplicada**.
+
+ 
+
+O projeto foi construído a partir de uma **mentoria guiada por IA**, evoluindo desde a definição de objetivos até a criação de um **plano de estudos de 120 dias**, com uso do **GitHub como portfólio vivo desde o primeiro dia**.
+
+ 
+
+---
+
+ 
+
+## 👩‍💼 Perfil Profissional
+
+ 
+
+- **Carreira escolhida:** Analista de Negócios / Business Analyst com IA aplicada 
+
+- **Nível atual:** Iniciante (zero) 
+
+- **Disponibilidade:** 5 horas por semana 
+
+- **Preferência:** Pessoas (comunicação, facilitação, entendimento de necessidades) 
+
+- **Interesse principal:** Inteligência Artificial aplicada a negócios 
+
+- **Objetivo:** Crescimento profissional estruturado 
+
+ 
+
+---
+
+ 
+
+## 🎯 Objetivo do Projeto
+
+ 
+
+- Definir um **roadmap realista e sustentável** de carreira em tecnologia 
+
+- Usar **IA como mentora de carreira**, não apenas como ferramenta técnica 
+
+- Criar um **portfólio organizado no GitHub**, mesmo sem foco em programação 
+
+- Desenvolver visão de negócio, análise, documentação e tomada de decisão 
+
+ 
+
+---
+
+ 
+
+## 🧩 Visão do Dia a Dia da Carreira
+
+ 
+
+Um(a) **Business Analyst com IA aplicada** atua como ponte entre **pessoas, processos e tecnologia**, realizando atividades como:
+
+ 
+
+- Levantamento de necessidades junto a stakeholders
+
+- Análise e melhoria de processos (AS-IS / TO-BE)
+
+- Escrita e validação de requisitos funcionais e não funcionais
+
+- Apoio à tomada de decisão com dados e indicadores
+
+- Uso estratégico de IA para análise, documentação, insights e produtividade
+
+ 
+
+---
+
+ 
+
+## 🧠 Mapa de Skills
+
+ 
+
+### ✅ Core Skills (Essenciais)
+
+- Comunicação e escuta ativa
+
+- Levantamento e documentação de requisitos
+
+- Análise de processos de negócio
+
+- Pensamento crítico e priorização
+
+ 
+
+### ➕ Nice-to-have (Complementares)
+
+- KPIs, métricas e análise de dados
+
+- Power BI para visualização
+
+- IA generativa e engenharia de prompts
+
+- Storytelling para negócios
+
+ 
+
+---
+
+ 
+
+## 📅 Roadmap de 120 Dias
+
+ 
+
+O plano foi estruturado em **16 semanas**, respeitando a disponibilidade de **5h por semana**, com foco em constância.
+
+ 
+
+### 🔹 Mês 1 — GitHub + Fundamentos
+
+- GitHub desde o primeiro dia (README, commits, Markdown)
+
+- Fundamentos de Business Analysis
+
+- Introdução à IA para negócios
+
+ 
+
+### 🔹 Mês 2 — Requisitos, Processos e IA
+
+- Técnicas de elicitação
+
+- Requisitos funcionais e não funcionais
+
+- Processos AS-IS / TO-BE
+
+- Propostas de melhoria com IA
+
+ 
+
+### 🔹 Mês 3 — Dados e Power BI
+
+- KPIs e métricas
+
+- Power BI do zero
+
+- Dashboards e storytelling
+
+ 
+
+### 🔹 Mês 4 — Portfólio e Entrevistas
+
+- Projeto final completo
+
+- README profissional
+
+- Simulações de entrevista
+
+ 
+
+---
+
+ 
+
+## 🚀 Projeto de Portfólio
+
+ 
+
+**Tema:** 
+
+> Análise e melhoria de um processo de negócio com uso de Inteligência Artificial
+
+ 
+
+### Entregáveis do Projeto
+
+- Mapeamento AS-IS e TO-BE
+
+- Documento de requisitos
+
+- Proposta de uso de IA (casos, riscos e mitigação)
+
+- KPIs e métricas
+
+- Dashboard em Power BI
+
+- README explicando o case
+
+ 
+
+---
+
+ 
+
+## 💬 Preparação para Entrevistas
+
+ 
+
+O projeto inclui um roteiro com perguntas comuns para BA, utilizando o método **STAR**:
+
+ 
+
+- Situação 
+
+- Tarefa 
+
+- Ação 
+
+- Resultado 
+
+ 
+
+O objetivo é conectar **aprendizado, prática e impacto no negócio**.
+
+ 
+
+---
+
+ 
+
+## 🎓 Trilha de Estudos Recomendada
+
+ 
+
+A trilha combina **plataformas educacionais e YouTube**, com foco em iniciantes:
+
+ 
+
+- DIO (Business Analyst, IA, Power BI, GitHub)
+
+- Microsoft Learn (Power BI)
+
+- Coursera (IA para negócios)
+
+- YouTube (Git/GitHub, IA para iniciantes, Power BI do zero)
+
+ 
+
+ 
+
+📋 Trilha de Cursos (atualizada)
+
+Curso/Trilha
+
+Plataforma
+
+Quando (semanas)
+
+Foco
+
+Link
+
+Formação GitHub Certification
+
+DIO
+
+1-2 (base) + reforço contínuo
+
+Versionamento, colaboração, Markdown
+
+Abrir
+
+O que são IAs Generativas
+
+DIO
+
+4
+
+Fundamentos de IA generativa (conceitos)
+
+Abrir
+
+AI For Everyone (Andrew Ng)
+
+Coursera
+
+4-5 (em paralelo, leve)
+
+IA para profissionais de negócio (estratégia)
+
+Abrir
+
+Fundamentos de BI: KPIs e Métricas
+
+DIO
+
+9
+
+KPIs, métricas e base de BI
+
+Abrir
+
+Get started building with Power BI
+
+Microsoft Learn
+
+10
+
+Primeiros passos com Power BI
+
+Abrir
+
+Prepare and visualize data with Microsoft Power BI
+
+Microsoft Learn
+
+11-12
+
+Power Query, modelagem, visuais
+
+Abrir
+
+Formação Power BI Analyst
+
+DIO
+
+10-12 (reforço)
+
+Relatórios, modelagem, storytelling, workspaces
+
+Abrir
+
+✅ Curso gratuito Git e GitHub (playlist) - Tiago Matos
+
+YouTube
+
+1-2 (apoio) + consultas pontuais
+
+Git/GitHub do zero: commits, branches, PRs, forks
+
+Abrir
+
+✅ Curso Grátis de Inteligência Artificial (playlist) - Curso em Vídeo
+
+YouTube
+
+4-6 (fundamentos, sem pressa)
+
+Fundamentos de IA, LLMs e engenharia de prompt (visão geral)
+
+Abrir
+
+✅ Curso Completo de Power BI - Do básico ao avançado (playlist) - Anderson Alves
+
+YouTube
+
+10-12 (apoio) + aprofundamento opcional
+
+Power BI do zero até publicação; visuais, DAX e relatórios
+
+Abrir
+
+ 
+
+ 
+
+
 
  
 
