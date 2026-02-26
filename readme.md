@@ -1,110 +1,308 @@
-<!--START_SECTION:header-->
-<div align="center">
-  <p align="center">
-    <img 
-      alt="DIO Education" 
-      src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
-      width="100px" 
-    />
-    <h1>Título do Curso ou Projeto</h1>
-  </p>
-</div>
-<!--END_SECTION:header-->
+# 🤖 Projeto de Entrega — Entrevista Guiada (Agente 1)
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
+> **Projeto de entrega (aula):** entrevista guiada por IA para mapear perfil, sugerir carreiras e orientar uma pesquisa de mercado para média gestão.
 
-</p>
+ 
 
-<!--  -->
-<table align="center">
-<thead>
-  <tr>
-    <td>
-        <p align="center">Expert</p>
-        <a href="https://github.com/felipeAguiarCode">
-        <img src="https://avatars0.githubusercontent.com/u/37452836?v=3&s=115" alt="@felipeAguiarCode"><br>
-      </a>
-    </td>
-    <td colspan="3">
-    <p>🎉 10y+ em sistemas comerciais com .NET C# e NODE.JS.
-      <br/>
-     🌟 Desenvolvedor fullstack - Coordenador de educação na DIO
-      <br/>
-    👨‍💻 Foco em front-ends SPA com React, Angular e Vue.js
-    </p>
-      <a 
-      href="https://www.linkedin.com/in/felipe-me/" 
-      align="center">
-           <img 
-            align="center" 
-            alt="Material de Apoio" 
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            >
-        </a>
-        <a href="https://www.instagram.com/felipeaguiar.exe/" target="_blank">
-            <img 
-              align="center" 
-              alt="Instagram" 
-              src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            >
-        </a>
-    </td>
-  </tr>
-</thead>
-</table>
-<!--  -->
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
 
-<br/>
-<br/>
+![Projeto](https://img.shields.io/badge/projeto-acad%C3%AAmico-blue)
 
-## 💻 Sobre o Projeto
+![IA](https://img.shields.io/badge/IA-M365%20Copilot-5c2d91)
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+![Linguagem](https://img.shields.io/badge/markdown-README-informational)
 
-## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
+![Tema](https://img.shields.io/badge/tema-carreira%20em%20tech-orange)
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+ 
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+---
 
-- _Exemplo_:
+ 
 
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
+## 📌 Sumário
 
-- [Outros pré-requisitos, se aplicável]
+- [🎯 Objetivo](#-objetivo)
 
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+- [🧭 Metodologia](#-metodologia)
 
-## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
+- [👤 Perfil coletado (resumo)](#-perfil-coletado-resumo)
 
-- [Lista das habilidades principais a serem desenvolvidas]
+- [📝 Entrevista (7 perguntas)](#-entrevista-7-perguntas)
 
-  - [Subhabilidades relacionadas, se aplicável]
+- [🏁 Resultado: 3 carreiras recomendadas](#-resultado-3-carreiras-recomendadas)
 
-- _Exemplo_:
-  - Java
-    - Api Rest
+- [🔎 Extensão: pesquisa de mercado (média gestão)](#-extensão-pesquisa-de-mercado-média-gestão)
 
-## 🎯 Objetivos e Resultados Esperados
+- [📦 Estrutura sugerida do repositório](#-estrutura-sugerida-do-repositório)
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+- [📚 Fontes consultadas](#-fontes-consultadas)
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+- [⚠️ Observações](#️-observações)
 
-<!--START_SECTION:footer-->
+- [🧾 Autoria](#-autoria)
 
-<br />
-<br />
+ 
 
-<p align="center">
-  <a href="https://www.dio.me/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
-  </a>
-</p>
+---
+
+ 
+
+## 🎯 Objetivo
+
+Documentar uma **interação completa** com um **Mentor de Carreira baseado em IA**, que conduz:
+
+1) uma entrevista estruturada em 7 perguntas (uma por vez), 
+
+2) uma análise com 3 sugestões de carreira ranqueadas, 
+
+3) e uma extensão com **pesquisa de mercado** direcionada a **média gestão (equipes e projetos)**.
+
+ 
+
+---
+
+ 
+
+## 🧭 Metodologia
+
+A entrevista seguiu a lógica:
+
+ 
+
+1. **Interesses e motivação** (o que atrai em tech) 
+
+2. **Experiência prévia** (nível de partida) 
+
+3. **Disponibilidade de estudo** (horas/semana) 
+
+4. **Preferência de atuação** (pessoas/dados/código) 
+
+5. **Objetivo profissional** (primeiro emprego/transição/crescimento) 
+
+6. **Interesses técnicos** (áreas/tecnologias) 
+
+7. **Experiência aproveitável** (skills transferíveis)
+
+ 
+
+✅ Regra crítica aplicada: **apenas 1 pergunta por vez**.
+
+ 
+
+---
+
+ 
+
+## 👤 Perfil coletado (resumo)
+
+- **O que atrai em tecnologia:** resolver problemas 
+
+- **Experiência em tech:** começando do zero 
+
+- **Disponibilidade semanal:** 6h/semana 
+
+- **Preferência:** dados (com desejo de evoluir para código) 
+
+- **Objetivo:** crescer na função atual 
+
+- **Interesses técnicos:** dados, IA, no-code/low-code, automação 
+
+- **Bagagem transferível:** inovação, mentoria, mapeamento de processos, otimização, jornada do cliente, projetos de soluções
+
+ 
+
+---
+
+ 
+
+## 📝 Entrevista (7 perguntas)
+
+ 
+
+### 1) Motivação
+
+**IA:** O que mais te atrai em tecnologia — resolver problemas, criar produtos ou entender sistemas? 
+
+**Resposta:** **resolver problemas**
+
+ 
+
+### 2) Experiência em tech
+
+**IA:** Você já tem experiência na área de tecnologia ou está começando do zero? 
+
+**Resposta:** **Estou começando do zero**
+
+ 
+
+### 3) Disponibilidade
+
+**IA:** Quantas horas por semana você consegue dedicar aos estudos? 
+
+**Resposta:** **6 horas**
+
+ 
+
+### 4) Preferência
+
+**IA:** Você prefere lidar mais com pessoas, dados ou código? 
+
+**Resposta:** **com dados, mas gostaria de evoluir para código também.**
+
+ 
+
+### 5) Objetivo profissional
+
+**IA:** Seu objetivo principal é conseguir o primeiro emprego, fazer transição de carreira ou crescer na função atual? 
+
+**Resposta:** **crescer na função atual**
+
+ 
+
+### 6) Interesses técnicos
+
+**IA:** Quais assuntos/tecnologias mais despertam seu interesse? (ex.: web, dados, IA, infraestrutura...) 
+
+**Resposta:** **dados, inteligência artificial, no code e low code e automação**
+
+ 
+
+### 7) Experiências aproveitáveis
+
+**IA:** Você tem alguma experiência prévia (mesmo fora de tech) que gostaria de aproveitar nessa jornada? 
+
+**Resposta:** **inovação, mentoria, processos, otimizações, jornada do cliente, projetos de soluções**
+
+ 
+
+---
+
+ 
+
+## 🏁 Resultado: 3 carreiras recomendadas
+
+> Abaixo, o ranking de carreiras proposto pela IA, com justificativas baseadas nas respostas.
+
+ 
+
+### 🥇 1º lugar — Analista de Dados / BI (com viés de automação e IA aplicada)
+
+**Por que combina:** forte alinhamento com *resolução de problemas + preferência por dados + experiência em processos/otimização e projetos*. 
+
+**Vantagens esperadas:** impacto rápido no trabalho atual; base sólida para IA aplicada. 
+
+**Desafios esperados:** construir consistência técnica (ex.: SQL/visualização/modelagem) e narrativa de dados.
+
+ 
+
+### 🥈 2º lugar — Desenvolvedor(a) Low-Code / Especialista em Automação (Power Platform/RPA/Integrações)
+
+**Por que combina:** seu repertório em processos e soluções favorece automação; caminho gradual para “entrar em código”. 
+
+**Vantagens esperadas:** entregas rápidas; ideal para 6h/semana com ganhos progressivos. 
+
+**Desafios esperados:** governança para evitar “automação caótica”; escalabilidade pode exigir base técnica maior.
+
+ 
+
+### 🥉 3º lugar — Product Analyst / CX Analytics (Dados + Jornada do Cliente + Experimentos)
+
+**Por que combina:** aproveita sua experiência em jornada do cliente e melhorias; ponte entre negócio e tecnologia. 
+
+**Vantagens esperadas:** alta aderência ao histórico; influência estratégica com métricas e hipóteses. 
+
+**Desafios esperados:** instrumentação/qualidade de dados; alinhamento contínuo com stakeholders.
+
+ 
+
+---
+
+ 
+
+## 🔎 Extensão: pesquisa de mercado (média gestão)
+
+Após o ranking, foi solicitada uma pesquisa de mercado com foco em **oportunidades para média gestão de equipes e projetos**, conectando:
+
+- **Dados/BI & Analytics**
+
+- **Automação (low-code/RPA/integrações)**
+
+- **Projetos/portfólio de transformação (dados & IA aplicada)**
+
+- **Governança de dados**
+
+ 
+
+**Principais entregas dessa etapa:**
+
+- panorama setorial e tendências (IA e transformação digital)
+
+- caminhos típicos de **média gestão**
+
+- palavras‑chave de busca e sinais de maturidade nas vagas
+
+ 
+
+---
+
+
+## 📦 Estrutura sugerida do repositório
+
+Se você quiser evoluir este projeto, pode organizar assim:
+
+ 
+
+- `README.md` → este arquivo (visão geral) 
+
+- `docs/`
+
+  - `perfil.md` → síntese do perfil e premissas
+
+  - `ranking_carreiras.md` → ranking + critérios + justificativas
+
+  - `pesquisa_mercado.md` → mapeamento de oportunidades e termos de busca
+
+- `assetselatórios (TIC no Brasil)**: https://brasscom.org.br/estudos-e-relatorios/ [2](https://brasscom.org.br/estudos-e-relatorios/)
+
+
+
+---
+
+
+
+## 📚  Fontes Consultadas
+
+- **Brasscom — Demanda de Talentos (apresentação/compilado)**: https://legis.senado.leg.br/sdleg-getter/documento/download/c69c42b7-7beb-466b-941f-bd6b5309933e [3](https://legis.senado.leg.br/sdleg-getter/documento/download/c69c42b7-7beb-466b-941f-bd6b5309933e) 
+
+- **PwC — Barômetro de Empregos de IA 2025**: https://www.pwc.com.br/pt/estudos/servicos/consultoria-negocios/2025/barometro-de-empregos-de-inteligencia-artificial-2025.html [4](https://www.pwc.com.br/pt/estudos/servicos/consultoria-negocios/2025/barometro-de-empregos-de-inteligencia-artificial-2025.html) 
+
+- **TOTVS/H2R — Panorama IA nas empresas brasileiras (PDF)**: https://conteudo.totvs.com/hubfs/Estudo_Panorama_IA_2025.pdf [5](https://conteudo.totvs.com/hubfs/Estudo_Panorama_IA_2025.pdf) 
+
+ 
+
+> Observação: links de vagas e plataformas são dinâmicos e variam diariamente; foram usados como sinal de ecossistema e termos de busca.
+
+ 
+
+---
+
+ 
+
+## ⚠️ Observações
+
+- Esta entrega **não inclui plano de estudos**, pois o escopo aqui é **entrevista + diagnóstico + recomendações + pesquisa de mercado**. 
+
+- Não foram informados **salários específicos**, para evitar distorções por região/senioridade e manter a orientação ética.
+
+ 
+
+---
+
+ 
+
+## 🧾 Autoria
+
+**Valeska Lima Viana** 
+
+Entrega da aula: **IA Mentor de Carreira — Descubra Seu Futuro em Tech**
