@@ -352,10 +352,6 @@ BA com IA aplicada costuma liderar iniciativas como:
 
 ---
 AGENTE 2
-
-
-# 🧠 IA Mentor de Carreira: Descubra Seu Futuro em Tech
-
  
 
 ![Carreira](https://img.shields.io/badge/carreira-Business%20Analyst%20%2B%20IA-blue)
@@ -640,117 +636,7 @@ A trilha combina **plataformas educacionais e YouTube**, com foco em iniciantes:
 
  
 
-📋 Trilha de Cursos (atualizada)
-
-Curso/Trilha
-
-Plataforma
-
-Quando (semanas)
-
-Foco
-
-Link
-
-Formação GitHub Certification
-
-DIO
-
-1-2 (base) + reforço contínuo
-
-Versionamento, colaboração, Markdown
-
-Abrir
-
-O que são IAs Generativas
-
-DIO
-
-4
-
-Fundamentos de IA generativa (conceitos)
-
-Abrir
-
-AI For Everyone (Andrew Ng)
-
-Coursera
-
-4-5 (em paralelo, leve)
-
-IA para profissionais de negócio (estratégia)
-
-Abrir
-
-Fundamentos de BI: KPIs e Métricas
-
-DIO
-
-9
-
-KPIs, métricas e base de BI
-
-Abrir
-
-Get started building with Power BI
-
-Microsoft Learn
-
-10
-
-Primeiros passos com Power BI
-
-Abrir
-
-Prepare and visualize data with Microsoft Power BI
-
-Microsoft Learn
-
-11-12
-
-Power Query, modelagem, visuais
-
-Abrir
-
-Formação Power BI Analyst
-
-DIO
-
-10-12 (reforço)
-
-Relatórios, modelagem, storytelling, workspaces
-
-Abrir
-
-✅ Curso gratuito Git e GitHub (playlist) - Tiago Matos
-
-YouTube
-
-1-2 (apoio) + consultas pontuais
-
-Git/GitHub do zero: commits, branches, PRs, forks
-
-Abrir
-
-✅ Curso Grátis de Inteligência Artificial (playlist) - Curso em Vídeo
-
-YouTube
-
-4-6 (fundamentos, sem pressa)
-
-Fundamentos de IA, LLMs e engenharia de prompt (visão geral)
-
-Abrir
-
-✅ Curso Completo de Power BI - Do básico ao avançado (playlist) - Anderson Alves
-
-YouTube
-
-10-12 (apoio) + aprofundamento opcional
-
-Power BI do zero até publicação; visuais, DAX e relatórios
-
-Abrir
+📋 Trilha de Cursos
 
  
 
