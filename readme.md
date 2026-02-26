@@ -1,6 +1,6 @@
 # 🤖 Projeto de Entrega — Mentor de Carreira (Entrevista Guiada e Plano Completo)
 
-> **Projeto de entrega (aula):** entrevista guiada por IA para mapear perfil, sugerir carreiras e orientar uma pesquisa de mercado e Roadmap Personalizado — Low-Code • Automação • IA • Dados (120 dias).
+ALINE > **Projeto de entrega (aula):** entrevista guiada por IA para mapear perfil, sugerir carreiras e orientar uma pesquisa de mercado e Roadmap Personalizado — Low-Code • Automação • IA • Dados (120 dias).
 ---
 
 > **Objetivo do projeto:** documentar uma mentoria de carreira feita via IA e transformar o resultado em um plano real, com entregas semanais, evidências no GitHub e um portfólio aplicável ao meu contexto profissional.
