@@ -310,8 +310,7 @@ Se você quiser evoluir este projeto, pode organizar assim:
 ---
 
 
-
-## 📚  Fontes Consultadas
+## 📚 Fontes consultadas
 
 - **Brasscom — Demanda de Talentos (apresentação/compilado)**: https://legis.senado.leg.br/sdleg-getter/documento/download/c69c42b7-7beb-466b-941f-bd6b5309933e [3](https://legis.senado.leg.br/sdleg-getter/documento/download/c69c42b7-7beb-466b-941f-bd6b5309933e) 
 
